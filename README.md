@@ -3,7 +3,7 @@
   <img src=Add-ons/FSN.gif>
 </div>
 
-<p align="center">“Helping other people is our responsibility. And no matter what I’m gonna live by that.” – Shirou Emiya</p>
+<p align="center"><strong><span style="font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;">&ldquo;Helping other people is our responsibility. And no matter what I&rsquo;m gonna live by that.&rdquo; &ndash; Shirou Emiya</span></strong></p>
 
 
 
