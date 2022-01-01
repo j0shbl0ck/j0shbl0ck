@@ -4,6 +4,8 @@
 </div>
 
 <h1 align="left">ᴀʙᴏᴜᴛ ᴍᴇ</h1>
+An entry-level adminstrator in college watching out for clients with experience in M/O365 cloud apps and endpoint management via Intune.
+<img src=Add-ons/SAO_K.gif align="right" height="220">
 
 - 📺 Currently watching <b>Record of Grancrest War</b>
 - 🔭 I’m currently working on <b>Intune deployment for clients</b>
@@ -12,7 +14,7 @@
 - 📫 How to reach me: 0go1fbn9c@relay.firefox.com
 
 
-An entry-level adminstrator in college watching out for clients within the Microsoft products. My knowledge lies in the Admin center of Microsoft alongside Microsoft Azure handling the management of device through Microsoft Endpoint Manager (Intune). You could definitley say I am a hobbiest developer while in public, I deny loving to code. It's more of a love hate relationship, but if anything, the building and troubleshooting I enjoy the most. Graphic design still has a soft spot for me, and it can be seen throughout this introduction. 
+
 
 
 
