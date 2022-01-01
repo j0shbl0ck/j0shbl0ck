@@ -1,4 +1,7 @@
-![](/Add-ons/SAO_Fight.gif)
+<div align="center">
+  <img src=/Add-ons/SAO_Fight.gif>
+</div>
+
 ### ようこそ 👋, I'm Josh!
 
 <!--
