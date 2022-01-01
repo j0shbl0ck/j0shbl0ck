@@ -5,7 +5,7 @@
 
 <p align="center"><strong><span style="font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;">&ldquo;Helping other people is our responsibility. And no matter what I&rsquo;m gonna live by that.&rdquo; &ndash; Shirou Emiya</span></strong></p>
 
-## ᴀʙᴏᴜᴛ ᴍᴇ 
+# ᴀʙᴏᴜᴛ ᴍᴇ 
 An entry-level adminstrator in college watching out for clients within the Microsoft products. My knowledge lies in the Admin center of Microsoft alongside Microsoft Azure handling the management of device through Microsoft Endpoint Manager (Intune).
 
 
