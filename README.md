@@ -1,5 +1,5 @@
 <h1 align="center">💠 ようこそ 👋, 𝐼'𝓂 𝒥𝑜𝓈𝒽! 💠</h1>
-
+“Helping other people is our responsibility. And no matter what I’m gonna live by that.” – Shirou Emiya
 <div align="center">
   <img src=Add-ons/FSN.gif>
 </div>
