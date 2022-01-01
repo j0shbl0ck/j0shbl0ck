@@ -37,8 +37,6 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)
 
 
-And more such as: Active Directory, Microsoft Endpoint manager
-
 <!--
 **j0shbl0ck/j0shbl0ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
