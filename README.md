@@ -1,4 +1,4 @@
-### Hi there 👋
+### ようこそ, I'm Josh 🖥
 
 <!--
 **j0shbl0ck/j0shbl0ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
