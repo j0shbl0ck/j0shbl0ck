@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="left">ᴀʙᴏᴜᴛ ᴍᴇ</h1>
-An entry-level adminstrator in college watching out for clients with experience in M/O365 cloud apps and endpoint management via Intune.
+An entry-level Microsoft adminstrator in college watching out for clients with experience in M/O365 cloud apps and endpoint management via Intune.
 <img src=Add-ons/SAO_K.gif align="right" height="220">
 
 - 📺 Currently watching <b>Record of Grancrest War</b>
@@ -13,7 +13,7 @@ An entry-level adminstrator in college watching out for clients with experience 
 - 🤔 I’m looking for help with <b>becoming a Microsoft MVP</b>
 - 📫 How to reach me: 0go1fbn9c@relay.firefox.com
 
-
+<h1 align="left">KNOWLEDGE BASE</h1>
 
 
 
