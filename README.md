@@ -5,6 +5,8 @@
 
 <p align="center"><strong><span style="font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;">&ldquo;Helping other people is our responsibility. And no matter what I&rsquo;m gonna live by that.&rdquo; &ndash; Shirou Emiya</span></strong></p>
 
+<h1 align="left">ᴀʙᴏᴜᴛ ᴍᴇ</h1>
+
 
 
 <!--
