@@ -22,19 +22,23 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
 
 <h1 align="left">ᴋɴᴏᴡʟᴇᴅɢᴇ</h1>
 
+![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-DA1F26?style=flat-square&logo=Adobe-Creative-Cloud&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=black)
+![Apple](https://img.shields.io/badge/-Apple-999999?style=flat-square&logo=Apple&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)
 ![Microsoft Exchange](https://img.shields.io/badge/-Microsoft_Exchange-0078D4?style=flat-square&logo=Microsoft-Exchange&logoColor=white)
+![Microsoft OneDrive](https://img.shields.io/badge/-Microsoft_OneDrive-0078D4?style=flat-square&logo=Microsoft-OneDrive&logoColor=white)
+![Microsoft Outlook](https://img.shields.io/badge/-Microsoft_Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white)
+![Microsoft SharePoint](https://img.shields.io/badge/-Microsoft_SharePoint-0078D4?style=flat-square&logo=Microsoft-SharePoint&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat-square&logo=Microsoft-Teams&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-D83B01?style=flat-square&logo=Microsoft-Office&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-DA1F26?style=flat-square&logo=Adobe-Creative-Cloud&logoColor=white)
 ![Microsoft-Azure](https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white)
-![Amazon-AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Apple](https://img.shields.io/badge/-Apple-999999?style=flat-square&logo=Apple&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=black)
 ![Google](https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=Google&logoColor=white)
 
 
+And more such as: Active Directory, Microsoft Endpoint manager
 
 <!--
 **j0shbl0ck/j0shbl0ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
