@@ -21,6 +21,7 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
 <br>
 
 <h1 align="left">ᴋɴᴏᴡʟᴇᴅɢᴇ</h1>
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Vue.Js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![CakePHP](https://img.shields.io/badge/-CakePHP-D33C43?style=flat-square&logo=CakePHP&logoColor=white)
