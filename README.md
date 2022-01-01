@@ -1,3 +1,4 @@
+![]/Add-ons/SAO_Fight.gif
 ### ようこそ 👋, I'm Josh!
 
 <!--
