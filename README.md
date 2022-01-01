@@ -16,6 +16,8 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
   <li> 📫 How to reach me: 0go1fbn9c@relay.firefox.com</li>
 </ul>
 
+<br>
+
 <div>
 <h1 align="left">KNOWLEDGE BASE</h1>
 
