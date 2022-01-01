@@ -1,8 +1,9 @@
+<h1 align="center">~⋆* ✨ ようこそ 👋, I'm Josh! ✨ *⋆~</h1>
+
 <div align="center">
   <img src=Add-ons/FSN.gif>
 </div>
 
-### ようこそ 👋, I'm Josh!
 
 <!--
 **j0shbl0ck/j0shbl0ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
