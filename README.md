@@ -33,8 +33,8 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white)
 ![Apple](https://img.shields.io/badge/-Apple-999999?style=flat-square&logo=Apple&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=black)
-![Google-Cloud](https://img.shields.io/badge/-Google-#4285F4?style=flat-square&logo=Google&logoColor=white)
-![Google](https://img.shields.io/badge/-Google-#4285F4?style=flat-square&logo=Google&logoColor=white)
+![Google](https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=Google&logoColor=white)
+![Google-Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
 
 
 <!--
