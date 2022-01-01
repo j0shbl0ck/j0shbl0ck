@@ -39,6 +39,11 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
 ![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-4D4D4D?style=flat-square&logo=Windows-Terminal&logoColor=white)
 
 
+<p align="center">
+	<a href="https://github.com/j0shbl0ck"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/j0shbl0ck247/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+</p>
+
 <!--
 **j0shbl0ck/j0shbl0ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
