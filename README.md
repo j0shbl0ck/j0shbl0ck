@@ -17,6 +17,7 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
 </ul>
 
 <br>
+<br>
 
 <div>
 <h1 align="left">KNOWLEDGE BASE</h1>
