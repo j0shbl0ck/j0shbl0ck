@@ -3,7 +3,7 @@
   <img src=Add-ons/FSN.gif>
 </div>
 
-<p align="left">ᴀʙᴏᴜᴛ ᴍᴇ</p>
+<h1 align="left">ᴀʙᴏᴜᴛ ᴍᴇ</h1>
  
 An entry-level adminstrator in college watching out for clients within the Microsoft products. My knowledge lies in the Admin center of Microsoft alongside Microsoft Azure handling the management of device through Microsoft Endpoint Manager (Intune). You could definitley say I am a hobbiest developer while in public, I deny loving to code. It's more of a love hate relationship, but if anything, the building and troubleshooting I enjoy the most. Graphic design still has a soft spot for me, and it can be seen throughout this introduction. 
 
