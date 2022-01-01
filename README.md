@@ -8,11 +8,13 @@
 An entry-level Microsoft adminstrator in college watching out for clients with experience in M/O365 cloud apps and endpoint management via Intune.
 <img src=Add-ons/SAO_K.gif align="right" height="220">
 
-- 📺 Currently watching <b>Record of Grancrest War</b>
-- 🔭 I’m currently working on <b>Intune deployment for clients</b>
-- 🎮 I’m currently playing <b>Genshin Impact</b> or <b>Battlefield V</b>
-- 🤔 I’m looking for help with <b>becoming a Microsoft MVP</b>
-- 📫 How to reach me: 0go1fbn9c@relay.firefox.com
+<ul>
+  <li> 📺 Currently watching <b>Record of Grancrest War</b></li>
+  <li> 🔭 I’m currently working on <b>Intune deployment for clients</b></li>
+  <li> 🎮 I’m currently playing <b>Genshin Impact</b> or <b>Battlefield V</b></li>
+  <li> 🤔 I’m looking for help with <b>becoming a Microsoft MVP</b></li>
+  <li> 📫 How to reach me: 0go1fbn9c@relay.firefox.com</li>
+</ul>
 
 <div>
 <h1 align="left">KNOWLEDGE BASE</h1>
