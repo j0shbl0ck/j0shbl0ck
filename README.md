@@ -30,11 +30,10 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
 ![Amazon-AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white)
 ![Apple](https://img.shields.io/badge/-Apple-999999?style=flat-square&logo=Apple&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=black)
 ![Google](https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=Google&logoColor=white)
-![Google-Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
+
 
 
 <!--
