@@ -35,6 +35,8 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
 ![Microsoft SharePoint](https://img.shields.io/badge/-Microsoft_SharePoint-0078D4?style=flat-square&logo=Microsoft-SharePoint&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat-square&logo=Microsoft-Teams&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-4D4D4D?style=flat-square&logo=Windows-Terminal&logoColor=white)
 
 
 <!--
