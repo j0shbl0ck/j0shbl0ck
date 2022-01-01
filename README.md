@@ -1,19 +1,19 @@
-<div>
-    <h1 align="center">💠 ようこそ 👋, 𝘐'𝘮 𝘑𝘰𝘴𝘩! 💠</h1>
-    <div align="center">
-    <img src=Add-ons/FSN.gif>
-    </div>
 
-    <h1 align="left">ᴀʙᴏᴜᴛ ᴍᴇ</h1>
-    An entry-level Microsoft adminstrator in college watching out for clients with experience in M/O365 cloud apps and endpoint management via Intune.
-    <img src=Add-ons/SAO_K.gif align="right" height="220">
-
-    - 📺 Currently watching <b>Record of Grancrest War</b>
-    - 🔭 I’m currently working on <b>Intune deployment for clients</b>
-    - 🎮 I’m currently playing <b>Genshin Impact</b> or <b>Battlefield V</b>
-    - 🤔 I’m looking for help with <b>becoming a Microsoft MVP</b>
-    - 📫 How to reach me: 0go1fbn9c@relay.firefox.com
+<h1 align="center">💠 ようこそ 👋, 𝘐'𝘮 𝘑𝘰𝘴𝘩! 💠</h1>
+<div align="center">
+<img src=Add-ons/FSN.gif>
 </div>
+
+<h1 align="left">ᴀʙᴏᴜᴛ ᴍᴇ</h1>
+An entry-level Microsoft adminstrator in college watching out for clients with experience in M/O365 cloud apps and endpoint management via Intune.
+<img src=Add-ons/SAO_K.gif align="right" height="220">
+
+- 📺 Currently watching <b>Record of Grancrest War</b>
+- 🔭 I’m currently working on <b>Intune deployment for clients</b>
+- 🎮 I’m currently playing <b>Genshin Impact</b> or <b>Battlefield V</b>
+- 🤔 I’m looking for help with <b>becoming a Microsoft MVP</b>
+- 📫 How to reach me: 0go1fbn9c@relay.firefox.com
+
 <div>
 <h1 align="left">KNOWLEDGE BASE</h1>
 
