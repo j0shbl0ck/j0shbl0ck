@@ -1,8 +1,9 @@
 <h1 align="center">💠 ようこそ 👋, 𝐼'𝓂 𝒥𝑜𝓈𝒽! 💠</h1>
-“Helping other people is our responsibility. And no matter what I’m gonna live by that.” – Shirou Emiya
 <div align="center">
   <img src=Add-ons/FSN.gif>
 </div>
+
+<p><span style='color: rgb(51, 51, 51); font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-size: 21.888px; font-style: italic; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>&ldquo;Helping other people is our responsibility. And no matter what I&rsquo;m gonna live by that.&rdquo; &ndash; Shirou Emiya</span> </p>
 
 
 <!--
