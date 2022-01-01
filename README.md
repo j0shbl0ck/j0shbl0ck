@@ -1,4 +1,4 @@
-<h1 align="center">~⋆* ✨ ようこそ 👋, I'm Josh! ✨ *⋆~</h1>
+<h1 align="center">💠 ようこそ 👋, 𝕴'𝖒 𝕵𝖔𝖘𝖍! 💠</h1>
 
 <div align="center">
   <img src=Add-ons/FSN.gif>
