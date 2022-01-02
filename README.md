@@ -59,4 +59,4 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
   </a>
 </div>
 
-[![Spotify](https://j0shbl0ck.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/j0shbl0ck)
+[![Spotify](https://novatorem-git-master-j0shbl0ck.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/j0shbl0ck)
