@@ -43,3 +43,5 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
 [![](https://github-readme-stats.vercel.app/api?username=j0shbl0ck&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=j0shbl0ck&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<h1 align="left">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h1>
+![Github](https://img.shields.io/github/followers/j0shbl0ck?style=social)
