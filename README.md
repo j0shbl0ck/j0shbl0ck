@@ -17,7 +17,8 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
 </ul>
 <br>
 <br>
-<h3 align="center">𝗟𝗜𝗦𝗧𝗘𝗡𝗜𝗡𝗚 𝗧𝗢</h3>
+<br>
+<h3 align="left">𝗟𝗜𝗦𝗧𝗘𝗡𝗜𝗡𝗚 𝗧𝗢</h3>
 
 [![Spotify](https://j0shbl0ck.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/j0shbl0ck)
 
