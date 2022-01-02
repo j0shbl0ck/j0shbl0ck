@@ -58,6 +58,8 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
   </a>
 </div>
 
+<html>
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="j0shbl0ck247" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/j0shbl0ck247?trk=profile-badge">Joshua Block</a></div>
+</html>
               
