@@ -60,3 +60,4 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
 </div>
 
 [<img src="https://novatorem-eta-two.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/1ecl2g5fu3hgbdnees4dt53ct)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
