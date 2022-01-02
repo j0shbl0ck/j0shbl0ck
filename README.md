@@ -16,6 +16,8 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
   <li> 📫 How to reach me: 0go1fbn9c@relay.firefox.com</li>
 </ul>
 
+[![Spotify](https:/novatorem-j0shbl0ck.vercel.app/api/spotify)](https://open.spotify.com/user/j0sbhl0ck)
+
 <br>
 <br>
 <br>
@@ -55,3 +57,4 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="JohnEmerson1406#0587">
   </a>
 </div>
+
