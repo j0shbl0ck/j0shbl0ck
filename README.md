@@ -16,11 +16,11 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
   <li> 📫 How to reach me: 0go1fbn9c@relay.firefox.com</li>
 </ul>
 
-[![Spotify](https://novatorem-j0shbl0ck.vercel.app/api/spotify)](https://open.spotify.com/user/1ecl2g5fu3hgbdnees4dt53ct)
+<br>
+<br>
+<br>
 
-<br>
-<br>
-<br>
+[![Spotify](https://novatorem-eta-two.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/1ecl2g5fu3hgbdnees4dt53ct)
 
 <h1 align="left">𝗞𝗡𝗢𝗪𝗟𝗘𝗗𝗚𝗘</h1>
 
