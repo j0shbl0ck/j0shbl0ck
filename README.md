@@ -42,9 +42,6 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
 
 <h1 align="left">𝗦𝗧𝗔𝗧𝗦</h1>
 
-[![](https://github-readme-stats.vercel.app/api?username=j0shbl0ck&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=j0shbl0ck&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=j0shbl0ck&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Josh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0shbl0ck&layout=compact&theme=github_dark&hide_border=true" /></a>
 | ------------- | ------------- |
 
