@@ -40,7 +40,7 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
 
 <h1 align="left">𝗦𝗧𝗔𝗧𝗦</h1>
 
-<img src=Add-ons/AS.gif align="right" style="max-width: 70%;">
+<img src=Add-ons/AS.gif align="right" style="max-width: auto;">
 
 [![](https://github-readme-stats.vercel.app/api?username=j0shbl0ck&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=j0shbl0ck&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
