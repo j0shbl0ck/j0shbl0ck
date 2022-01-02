@@ -38,6 +38,7 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-4D4D4D?style=flat-square&logo=Windows-Terminal&logoColor=white)
 
+[![](https://github-readme-stats.vercel.app/api?username=j0shbl0ck)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="left">𝗦𝗧𝗔𝗧𝗦</h1>
 
