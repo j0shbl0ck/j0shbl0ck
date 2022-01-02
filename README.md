@@ -16,7 +16,7 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
   <li> 📫 How to reach me: 0go1fbn9c@relay.firefox.com</li>
 </ul>
 
-[![Spotify](https:/novatorem-j0shbl0ck.vercel.app/api/spotify)](https://open.spotify.com/user/j0sbhl0ck)
+[![Spotify](https://novatorem-j0shbl0ck.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 <br>
 <br>
