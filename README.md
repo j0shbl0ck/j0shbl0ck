@@ -44,4 +44,16 @@ An entry-level Microsoft adminstrator in college watching out for clients with e
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=j0shbl0ck&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="left">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h1>
-![Github](https://img.shields.io/github/followers/j0shbl0ck?style=social)
+<div>
+  <a href="https://www.linkedin.com/in/j0shbl0ck247/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/j0shbl0ck" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white'" target="_blank">
+  </a>
+  <a href="https://discord.gg/Hatman77#8963" target="blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="JohnEmerson1406#0587">
+  </a>
+</div>
+
+[<img src='https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white' alt='github'>](https://github.com/MayMeow)
