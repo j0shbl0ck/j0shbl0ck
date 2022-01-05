@@ -5,7 +5,7 @@ https://lingojam.com/FontsForInstagram
 https://developer.spotify.com/
 
 Spotify API:
-https://github.com/MayMeow/MayMeow/blob/master/README.md
+https://github.com/novatorem
 https://vercel.com/
 
 Stats API:
