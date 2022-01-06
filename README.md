@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="left">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
-An entry-level Microsoft adminstrator in college watching out for clients with experience in M/O365 cloud apps and endpoint management via Intune.
+An entry-level Microsoft adminstrator in college watching out for clients with my experience in M/O365 cloud apps and endpoint management via Intune.
 <img src=Add-ons/SAO_K.gif align="right" height="220">
 
 <ul>
