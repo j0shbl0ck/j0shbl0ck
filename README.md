@@ -9,7 +9,7 @@ An entry-level Microsoft adminstrator in college watching out for clients with m
 <img src=Add-ons/SAO_K.gif align="right" height="220">
 
 <ul>
-  <li> 📺 Currently watching <b>Love of Kill</b></li>
+  <li> 📺 Currently watching <b>86 Eighty Six</b></li>
   <li> 🔭 I’m currently working on <b>Intune deployment for clients</b></li>
   <li> 🎮 I’m currently playing <b>Genshin Impact</b> or <b>Battlefield V</b></li>
   <li> 🤔 I’m looking for help with <b>becoming a Microsoft MVP</b></li>
