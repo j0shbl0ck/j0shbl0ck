@@ -25,45 +25,47 @@ An entry-level Microsoft adminstrator in college watching out for clients with m
 <!-- Alright spotify url to the center -->
 <div align="center">
     <h1 align="center">𝗟𝗜𝗦𝗧𝗘𝗡𝗜𝗡𝗚 𝗧𝗢</h1>
-    <a href="https://open.spotify.com/user/j0shbl0ck"><img align="center" src="https://j0shbl0ck.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Josh's Spotify Currently Playing" /></a>
+    <a href="https://open.spotify.com/user/j0shbl0ck"><img align="center" src="https://j0shbl0ck.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Josh's Spotify Currently Playing" target="_blank" rel="noopener noreferrer"/></a>
 </div>
-
 
 <div align="center">
-<h1 align="center">𝗞𝗡𝗢𝗪𝗟𝗘𝗗𝗚𝗘</h1>
-  
-![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-DA1F26?style=flat-square&logo=Adobe-Creative-Cloud&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=black)
-![Apple](https://img.shields.io/badge/-Apple-999999?style=flat-square&logo=Apple&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Google](https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=Google&logoColor=white)
-![Microsoft-Azure](https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white)
-![Microsoft Exchange](https://img.shields.io/badge/-Microsoft_Exchange-0078D4?style=flat-square&logo=Microsoft-Exchange&logoColor=white)
-![Microsoft OneDrive](https://img.shields.io/badge/-Microsoft_OneDrive-0078D4?style=flat-square&logo=Microsoft-OneDrive&logoColor=white)
-![Microsoft Outlook](https://img.shields.io/badge/-Microsoft_Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-D83B01?style=flat-square&logo=Microsoft-Office&logoColor=white)
-![Microsoft SharePoint](https://img.shields.io/badge/-Microsoft_SharePoint-038387?style=flat-square&logo=Microsoft-SharePoint&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat-square&logo=Microsoft-Teams&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-4D4D4D?style=flat-square&logo=Windows-Terminal&logoColor=white)
+  <h1 align="center">𝗞𝗡𝗢𝗪𝗟𝗘𝗗𝗚𝗘</h1>
+
+  ![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-DA1F26?style=flat-square&logo=Adobe-Creative-Cloud&logoColor=white)
+  ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=black)
+  ![Apple](https://img.shields.io/badge/-Apple-999999?style=flat-square&logo=Apple&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+  ![Google](https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=Google&logoColor=white)
+  ![Microsoft-Azure](https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white)
+  ![Microsoft Exchange](https://img.shields.io/badge/-Microsoft_Exchange-0078D4?style=flat-square&logo=Microsoft-Exchange&logoColor=white)
+  ![Microsoft OneDrive](https://img.shields.io/badge/-Microsoft_OneDrive-0078D4?style=flat-square&logo=Microsoft-OneDrive&logoColor=white)
+  ![Microsoft Outlook](https://img.shields.io/badge/-Microsoft_Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white)
+  ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-D83B01?style=flat-square&logo=Microsoft-Office&logoColor=white)
+  ![Microsoft SharePoint](https://img.shields.io/badge/-Microsoft_SharePoint-038387?style=flat-square&logo=Microsoft-SharePoint&logoColor=white)
+  ![Microsoft Teams](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat-square&logo=Microsoft-Teams&logoColor=white)
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)
+  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+  ![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-4D4D4D?style=flat-square&logo=Windows-Terminal&logoColor=white)
+
 </div>
-<h1 align="center">𝗦𝗧𝗔𝗧𝗦</h1>
+<div align="center">
+  <h1 align="center">𝗦𝗧𝗔𝗧𝗦</h1>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=j0shbl0ck&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Josh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0shbl0ck&layout=compact&theme=github_dark&hide_border=true" /></a>
-| ------------- | ------------- |
-
-<h1 align="center">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h1>
-<div>
-  <a href="https://www.linkedin.com/in/j0shbl0ck247/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/j0shbl0ck" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white'" target="_blank">
-  </a>
-  <a href="https://discord.gg/Hatman77#8963" target="blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="JohnEmerson1406#0587">
-  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=j0shbl0ck&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Josh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0shbl0ck&layout=compact&theme=github_dark&hide_border=true" /></a>
 </div>
 
+<div align="center">
+  <h1 align="center">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h1>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/j0shbl0ck247/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
+    </a>
+    <a href="https://github.com/j0shbl0ck">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white'" target="_blank" rel="noopener noreferrer">
+    </a>
+    <a href="https://discord.gg/Hatman77#8963" >
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer">
+    </a>
+  </div>
+</div>
               
