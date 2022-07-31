@@ -51,8 +51,10 @@ An entry-level Microsoft adminstrator in college watching out for clients with m
 <div align="center">
   <h1 align="center">𝗦𝗧𝗔𝗧𝗦</h1>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=j0shbl0ck&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Josh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0shbl0ck&layout=compact&theme=github_dark&hide_border=true" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="480" src="https://github-readme-stats.vercel.app/api?username=j0shbl0ck&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Josh's github stats" class="center" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0shbl0ck&layout=compact&theme=github_dark&hide_border=true" class="center" /></a>
 </div>
+
+<img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
 
 <div align="center">
   <h1 align="center">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h1>
