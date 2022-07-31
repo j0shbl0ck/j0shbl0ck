@@ -4,9 +4,11 @@
   <img src=Add-ons/FSN.gif>
 </div>
 
+<br>
+
 <h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
 An entry-level Microsoft adminstrator in college watching out for clients with my experience in MS/O365 cloud apps and endpoint management via Intune.
-<img src=Add-ons/SAO_K.gif align="right" height="220">
+
 
 <ul>
   <li> 📺 Currently watching <b>86 Eighty Six</b></li>
@@ -21,12 +23,15 @@ An entry-level Microsoft adminstrator in college watching out for clients with m
 <br>
 <br>
 
+<br>
 
 <!-- Alright spotify url to the center -->
 <div align="center">
     <h1 align="center">𝗟𝗜𝗦𝗧𝗘𝗡𝗜𝗡𝗚 𝗧𝗢</h1>
     <a href="https://open.spotify.com/user/j0shbl0ck"><img width="720" height="auto" src="https://j0shbl0ck.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Josh's Spotify Currently Playing" target="_blank" class="auto" rel="noopener noreferrer"/></a>
 </div>
+
+<br>
 
 <div align="center">
   <h1 align="center">𝗞𝗡𝗢𝗪𝗟𝗘𝗗𝗚𝗘</h1>
@@ -48,26 +53,29 @@ An entry-level Microsoft adminstrator in college watching out for clients with m
   ![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-4D4D4D?style=flat-square&logo=Windows-Terminal&logoColor=white)
 
 </div>
-<div align="center">
-  <h1 align="center">𝗦𝗧𝗔𝗧𝗦</h1>
 
+<br>
+
+<h1 align="center">𝗦𝗧𝗔𝗧𝗦</h1>
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="960" height="auto" src="https://github-readme-stats.vercel.app/api?username=j0shbl0ck&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Josh's github stats" class="auto" /></a> 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="960" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0shbl0ck&layout=compact&theme=github_dark&hide_border=true" class="auto" /></a>
 </div>
 
+<br>
 
+<h1 align="center">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h1>
 <div align="center">
-  <h1 align="center">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h1>
-  <div align="center">
-    <a href="https://www.linkedin.com/in/j0shbl0ck247/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
-    </a>
-    <a href="https://github.com/j0shbl0ck">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white'" target="_blank" rel="noopener noreferrer">
-    </a>
-    <a href="https://discord.gg/Hatman77#8963" >
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer">
-    </a>
-  </div>
+  <a href="https://www.linkedin.com/in/j0shbl0ck247/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
+  </a>
+  <a href="https://github.com/j0shbl0ck">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white'" target="_blank" rel="noopener noreferrer">
+  </a>
+  <a href="https://discord.gg/Hatman77#8963" >
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer">
+  </a>
+  <br>
+  <img src=Add-ons/SAO_K.gif width="400" height="auto">
 </div>
               
