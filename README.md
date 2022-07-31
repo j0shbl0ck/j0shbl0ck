@@ -1,7 +1,7 @@
 
 <h1 align="center">💠 ようこそ 👋, 𝘐'𝘮 𝘑𝘰𝘴𝘩! 💠</h1>
 <div align="center">
-  <img src=Add-ons/FSN.gif>
+  <img width="720" height="auto" src=Add-ons/FSN.gif>
 </div>
 
 <br>
@@ -16,9 +16,6 @@
   <li> 📫 How to reach me: <b>0go1fbn9c@relay.firefox.com</b></li>
 </ul>
 
-<br>
-
-<!-- Alright spotify url to the center -->
 <div align="center">
     <h1 align="center">𝗟𝗜𝗦𝗧𝗘𝗡𝗜𝗡𝗚 𝗧𝗢</h1>
     <a href="https://open.spotify.com/user/j0shbl0ck"><img width="720" height="auto" src="https://j0shbl0ck.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Josh's Spotify Currently Playing" target="_blank" class="auto" rel="noopener noreferrer"/></a>
@@ -49,9 +46,6 @@
   </p>
   <img src = "Add-ons/AS.gif" width = "460px" height="auto" align="center">
 </div>
-
-
-
 
 <br>
 
