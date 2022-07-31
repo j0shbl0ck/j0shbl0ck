@@ -57,8 +57,10 @@
 
 <h1 align="center">𝗦𝗧𝗔𝗧𝗦</h1>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="300" height="auto" src="https://github-readme-stats.vercel.app/api?username=j0shbl0ck&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Josh's github stats" class="auto" /></a> 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="300" height="118" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0shbl0ck&layout=compact&theme=github_dark&hide_border=true" class="auto" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="540" height="auto" src="https://github-readme-stats.vercel.app/api?username=j0shbl0ck&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Josh's github stats" class="left" /></a> 
+</div>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="540" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0shbl0ck&layout=compact&theme=github_dark&hide_border=true" class="center" /></a>
 </div>
 
 <br>
