@@ -7,8 +7,6 @@
 <br>
 
 <h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
-An entry-level Microsoft adminstrator in college watching out for clients with my experience in MS/O365 cloud apps and endpoint management via Intune.
-
 
 <ul>
   <li> 📺 Currently watching <b>86 Eighty Six</b></li>
@@ -17,11 +15,6 @@ An entry-level Microsoft adminstrator in college watching out for clients with m
   <li> 🤔 I’m looking for help with <b>becoming a Microsoft MVP</b></li>
   <li> 📫 How to reach me: <b>0go1fbn9c@relay.firefox.com</b></li>
 </ul>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <br>
 
