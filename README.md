@@ -51,8 +51,8 @@ An entry-level Microsoft adminstrator in college watching out for clients with m
 <div align="center">
   <h1 align="center">𝗦𝗧𝗔𝗧𝗦</h1>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="350" height="auto" src="https://github-readme-stats.vercel.app/api?username=j0shbl0ck&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Josh's github stats" class="auto" /></a> 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="350" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0shbl0ck&layout=compact&theme=github_dark&hide_border=true" class="auto" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="960" height="auto" src="https://github-readme-stats.vercel.app/api?username=j0shbl0ck&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Josh's github stats" class="auto" /></a> 
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="960" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0shbl0ck&layout=compact&theme=github_dark&hide_border=true" class="auto" /></a>
 </div>
 
 
