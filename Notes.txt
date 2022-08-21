@@ -15,3 +15,13 @@ Templates Used:
 https://github.com/PrincessAkira/PrincessAkira/blob/master/README.md
 https://github.com/JohnEmerson1406/JohnEmerson1406/blob/main/README.md
 https://github.com/MayMeow/MayMeow/blob/master/README.md
+
+
+Personal Notes:
+- API stopped working close to a year. Steps to take:
+  1. Make note of Spotify border color in README.md
+  2. Make note of Spotify bar color in templates > themes > dark in forked repository
+  3. Delete current Spotify API 
+  4. Delete novatorem project in Vercel
+  5. Follow YouTube video and set up entirely new project and API
+  6. Replace domain url in README.md
