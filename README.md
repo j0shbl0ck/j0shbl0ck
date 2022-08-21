@@ -18,8 +18,9 @@
 
 <div align="center">
     <h1 align="center">𝗟𝗜𝗦𝗧𝗘𝗡𝗜𝗡𝗚 𝗧𝗢</h1>
-    <a href="https://open.spotify.com/user/1ecl2g5fu3hgbdnees4dt53ct?si=ce25b550ed6f46d0%3F_authfailed%3D1&nd=1"><img width="720" height="auto" src="https://j0shbl0ck.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Josh's Spotify Currently Playing" target="_blank" class="auto" rel="noopener noreferrer"/></a>
+    <a href="https://open.spotify.com/user/1ecl2g5fu3hgbdnees4dt53ct?si=ce25b550ed6f46d0%3F_authfailed%3D1&nd=1"><img width="720" height="auto" src="https://novatorem2-nu.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Josh's Spotify Currently Playing" target="_blank" class="auto" rel="noopener noreferrer"/></a>
 </div>
+
 
 <br>
 
