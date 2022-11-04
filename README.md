@@ -76,7 +76,7 @@
   <img src=Add-ons/SAO_K.gif width="400" height="auto">
 </div>
 
-<h1 align="center">HOLOPIN BOARD</h1>
+<h1 align="center"></h1>
 
 [![@j0shbl0ck's Holopin board](https://holopin.me/j0shbl0ck)](https://holopin.io/@j0shbl0ck)
 
